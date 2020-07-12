@@ -1,9 +1,6 @@
 #!/bin/bash
 DATETIME=`date`
 
-# A1: istemci. client.sh (ya da client.bat) dosyasını çalıştıracaktır. 10 adet TCP4 ve 10 adet UDP4 mesajı
-# oluşturacaktır. {id:”ogrencino”, no:”ID” msg:”packet from client”,
-# timestamp:”DATETIME”} mesajını A2 makinesi 5001 numaralı porta gönderecektir.
 
 for (( udp_counter=1; udp_counter<=10; udp_counter++ ))
 do
