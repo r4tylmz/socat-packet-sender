@@ -27,7 +27,7 @@ https://github.com/craSH/socat/blob/master/EXAMPLES
 
 **Packets must be like this**
 
-```json
+```
 {id:'YOUR_ID', no:'PACKET_NUMBER' msg:'PACKET FROM CLIENT', timestamp:'DATETIME'}  
 ```
 
