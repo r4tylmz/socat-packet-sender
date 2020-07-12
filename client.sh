@@ -1,7 +1,6 @@
 #!/bin/bash
 DATETIME=`date`
 
-
 for (( udp_counter=1; udp_counter<=10; udp_counter++ ))
 do
 
