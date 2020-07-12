@@ -1,4 +1,4 @@
-# Sending packets through Socat
+# Example of sending packages via Socat
 
 
 
