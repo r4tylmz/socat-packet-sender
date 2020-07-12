@@ -67,6 +67,6 @@ TCP--> [{MSG}{PACKET_NUMBER}{DATETIME}] {CURRENT_DATETIME}
 
 #### **Restrictions**
 
-- **If there is no txt file, it will be created and overwritten if any. New log values will be written with each transaction. **
+- **If there is no txt file, it will be created and overwritten if any. New log values will be written with each transaction.**
 - **The symbols {,}, [,] in all messages will be preserved.**
 
