@@ -1,8 +1,3 @@
-# A2: yönlendirici. route.sh (ya da route.bat) dosyasını çalıştıracaktır. Hem UDP hem de TCP protokolü
-# için 5001 numaralı portu dinleyecek, gelen mesajın TCP protokolünü kullanması durumunda A4
-# bilgisayarına, UDP protokolü olması durumda da A3 bilgisayarına yönlendirecektir. route.txt dosyasına
-# her yönlendirme işlemini ayrı satıra olmak üzere:
-# 1- ROUTER-->PROTOKOL: [{mesaj}{ID}{datetime}] {datetime} şeklinde yazılması beklenmektedir.
 
 CURRENTDATE=`date`
 fork_udp(){
